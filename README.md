@@ -2,7 +2,7 @@
 - 👀 I’m not interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on engineering school projects
-- 📫 How to reach me augustin.barbier@edu.ece.fr
+- 📫 How to reach no way
 
 <!---
 augustinbarbier/augustinbarbier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
